@@ -55,12 +55,11 @@ def diabetes(Pregnancies, Glucose, Blood_Pressure, SkinThickness, Insulin, BMI,D
 outputs = gr.Textbox()
 app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','number','number','number','number'], outputs=outputs,description="Detection of Diabeties")
 app.launch(share=True)
-
+```
 # OUTPUT:
 ![image](https://github.com/Naadira/Ex.No13_AI_miniproject/assets/128135126/7a7e5650-caa2-4d7c-833c-378295214ffa)
 ![image](https://github.com/Naadira/Ex.No13_AI_miniproject/assets/128135126/1057e1da-3a7f-4531-9bb6-84d9eee0072e)
 ![image](https://github.com/Naadira/Ex.No13_AI_miniproject/assets/128135126/96a82277-a4ce-46f6-a609-0405bd5b4183)
-```
 # RESULT:
 Thus the system was trained successfully and the prediction was carried out.
 
