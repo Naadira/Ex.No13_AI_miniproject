@@ -4,6 +4,7 @@
 # AIM:
 To write a program to train the classifier for Diabetes.
 # ALGORITHM:
+```
 Step 1: Import packages. 
 Step 2: Get the data. 
 Step 3: Split the data. 
@@ -11,7 +12,9 @@ Step 4: Scale the data.
 Step 5: Instantiate model. 
 Step 6: Create Gradio Function. 
 Step 7: Print Result.
+```
 # PROGRAM:
+```
 import numpy as np
 import pandas as pd
 pip install gradio
@@ -57,7 +60,7 @@ app.launch(share=True)
 ![image](https://github.com/Naadira/Ex.No13_AI_miniproject/assets/128135126/7a7e5650-caa2-4d7c-833c-378295214ffa)
 ![image](https://github.com/Naadira/Ex.No13_AI_miniproject/assets/128135126/1057e1da-3a7f-4531-9bb6-84d9eee0072e)
 ![image](https://github.com/Naadira/Ex.No13_AI_miniproject/assets/128135126/96a82277-a4ce-46f6-a609-0405bd5b4183)
-
+```
 # RESULT:
 Thus the system was trained successfully and the prediction was carried out.
 
