@@ -1,1 +1,1 @@
-# Ex.No13_AI_miniproject
+# Ex.No: 13 Machine Learning – Mini Project
